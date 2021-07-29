@@ -1,0 +1,130 @@
+#bg{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #264653;
+    background-position: center;
+    background-size: cover;
+    position: relative;}
+.hero-h{
+    font-size: 65px;
+line-height: 72px;
+margin-bottom: 18px;
+} 
+.hero-p{
+    color: #E0E0E0;
+    line-height: 30px;
+}  
+.btn-style{
+    background-image: linear-gradient(to bottom, #E76F51 0%, #E76F30 100%);
+border-radius: 5px;
+outline: none;
+color: white;
+font-size: 24px;
+padding: 10px 70px;
+font-weight: 600;
+margin-right: 20%;
+
+}
+.modal-header {
+    background:#E76F51;
+    color: #fff;
+}
+
+.required:after {
+    content: "*";
+    color: red;
+}
+.grayscale{
+filter: grayscale(100%);
+width: 100%;
+border-radius: 0px;
+mix-blend-mode: luminosity;
+}
+.without-grayscale{
+width: 90%%;
+border-radius: 0px;
+}
+.feature-head h1{
+    font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+}
+.feature-head h4{
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+color: #E76F51;
+}
+.client-h{
+color: #E76F51;
+}
+.h-noColor{
+    font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+margin-top: 10%;
+}
+#img-1{
+    width: 149px;
+    height: 149px;
+}
+#regina{
+    color: #23A6F0;
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+margin-top: 15px;
+}
+#banker{
+    color: #252B42;
+    font-size: 14px;
+}
+ .fas.filled{
+    font-size: 22px;
+    color: #E76F51;
+}
+.far.empty{
+    font-size: 22px;
+    color: #E76F51;
+
+}
+.client-paragraph{
+    color: #6C6C6C;
+    font-size: 16px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.2px;
+font-style: normal;
+font-weight: normal;
+}
+#faq-img{
+    width: 431.2px;
+height: 423.5px;
+}
+.honda-info-bg{
+    background-color: black;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #E76F51 0%, #E76F30 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.fas{
+    font-size: 45px;
+    color: #E76F51;
+}
+.fab{
+    font-size: 22px;
+    color: #E76F51;
+}
+.footer-bg{
+    background-color: black;
+   overflow-x: hidden;
+    
+}
